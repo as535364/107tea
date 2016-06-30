@@ -2551,7 +2551,6 @@
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
-			height: 100px;
 		}
 
 			input[type="submit"].special:hover,
