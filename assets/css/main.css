@@ -1481,6 +1481,14 @@
 		text-align: right;
 	}
 
+	.avatar img {
+				display: block;
+				margin: 0 auto;
+				border: 0px;
+				width: 500px;
+				height: 300px;
+			}
+
 /* Loader */
 
 	@-moz-keyframes spinner-show {
@@ -2659,6 +2667,8 @@
 			background-repeat: no-repeat;
 			border-radius: 100%;
 			border: 0;
+
+			
 			bottom: 3em;
 			display: block;
 			height: 4em;
