@@ -3041,3 +3041,45 @@
 				}
 
 	}
+
+
+/*表單*/
+
+	.signup{
+		margin: auto 2em;
+	}
+
+	.signup p{
+		margin: 1.8em 0 0 0;
+		font-size: 1.3em;
+	}
+
+	.signup span{
+		font-size: 0.8em;
+	}
+
+	.signup input{
+		margin: 0.6em 0 0 0;
+		max-width: 50%;
+		display: inline-block;
+		text-align: center;
+	}
+
+	.signup .cb input[type="checkbox"] + label{
+		display: block;
+		margin: 1.5em 0 0 0;
+		font-size: 1.1em;
+		font-family: Microsoft JhengHei;
+	}
+
+	.signup .r {
+		margin: 1em 0 0 0;
+	}
+
+	.signup p,label{
+		font-weight: 600;
+	}
+
+	.signup .special{
+		margin: 0.5em 0 1em 0;
+	}
